@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tutorials-2.1.0" />
+        <module name="tutorials-2.6.1" />
         <module name="tutorials-2.5.1" />
+        <module name="tutorials-2.6.0" />
         <module name="tutorials-2.4.1" />
         <module name="tutorials-2.5.0" />
         <module name="tutorials-2.3.1" />
