@@ -20,6 +20,9 @@
         <module>tutorials-2.5.1</module>
         <module>tutorials-2.6.0</module>
         <module>tutorials-2.6.1</module>
+        <module>tutorials-4.0.0</module>
+        <module>tutorials-4.0.1</module>
+        <module>tutorials-4.0.2</module>
     </modules>
 
 </project>
